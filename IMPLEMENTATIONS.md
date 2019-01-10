@@ -20,6 +20,7 @@ These tools are not endorsed by the OAI.
 | oas3-remote-refs | [github//OverSpeedIO/oas3-remote-refs](https://github.com/OverSpeedIO/oas3-remote-refs) | Node.js | Tool to pull remote refernences and merge them into the definitions of the provided OpenAPI3 speicfication.
 | go-openapi | [github/nasa9084/go-openapi](https://github.com/nasa9084/go-openapi) | Go | Golang struct model for OpenAPI 3.x. |
 | openapi | [github/wzshiming/openapi](https://github.com/wzshiming/openapi) | Go | OpenAPI 3 Specification for golang |
+| kin-openapi | [github/getkin/kin-openapi](https://github.com/getkin/kin-openapi) | Go | OpenAPI 3.x implementation for Go (parsing, converting, validation) |
 
 #### Editors
 
@@ -43,6 +44,11 @@ These tools are not endorsed by the OAI.
 | Widdershins | [github/Mermade/widdershins](https://github.com/Mermade/widdershins) | Node.js | Generate Slate/Shins markdown from OpenAPI 3.0.x |
 | angular-swagger-ui | [github/angular-swagger-ui](https://github.com/Orange-OpenSource/angular-swagger-ui) | AngularJS | An angularJS implementation of Swagger UI |
 
+#### Mock Servers
+| Title          | Project Link | Language | Description |
+| -------------- | ------------ | -------- | ----------- |
+| API Sprout     | [github/danielgtaylor/apisprout](https://github.com/danielgtaylor/apisprout) | Go | Lightweight, blazing fast, cross-platform OpenAPI 3 mock server with validation |
+
 #### Server Implementations
 | Title          | Project Link | Language |Description                          |
 |----------------|--------------|----------|---------------------|
@@ -51,6 +57,7 @@ These tools are not endorsed by the OAI.
 | Modern | [github/modern-project/modern-ruby](https://github.com/modern-project/modern-ruby) | Ruby | OpenAPI 3-based Rack framework with automatic OAS generation and requests/response validation
 | Koa2-OAS3 | [github/OverSpeedIO/koa2-oas3](https://github.com/OverSpeedIO/koa2-oas3) | Node.js | OpenAPI 3 request validation middleware for Koa2 based apps.
 | Exegesis | [github/exegesis-js/exegesis](https://github.com/exegesis-js/exegesis) | Node.js | OpenAPI 3 server-side framework for express and other frameworks.
+| PHP-CRUD-API | [github/mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) | PHP | Automatic CRUD API with OpenAPI 3 docs
 
 #### Code Generators
 
